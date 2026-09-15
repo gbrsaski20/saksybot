@@ -1,0 +1,47 @@
+{
+  "clientId": "1549017910553612378",
+  "servers": {
+    "1549016212996882522": {
+      "isPremium": true,
+      "premiumExpires": "2026-10-15T12:16:45.249Z",
+      "verificationSettings": {
+        "enabled": true,
+        "verificationChannelId": "1549026192060055632",
+        "unverifiedRoleId": "1549025803088568400",
+        "verifiedRoleId": "1549025955782205440",
+        "ownerRoleId": "",
+        "modRoleId": ""
+      },
+      "autoBanSettings": {
+        "enabled": true,
+        "maxEmojiCount": 5,
+        "forbiddenWords": [
+          "spam",
+          "toxic",
+          "promosi"
+        ]
+      }
+    },
+    "1536803671654793367": {
+      "isPremium": false,
+      "premiumExpires": null,
+      "verificationSettings": {
+        "enabled": true,
+        "verificationChannelId": "1549026192060055632",
+        "unverifiedRoleId": "1549025803088568400",
+        "verifiedRoleId": "1549025955782205440",
+        "ownerRoleId": "",
+        "modRoleId": ""
+      },
+      "autoBanSettings": {
+        "enabled": true,
+        "maxEmojiCount": 5,
+        "forbiddenWords": [
+          "spam",
+          "toxic",
+          "promosi"
+        ]
+      }
+    }
+  }
+}
